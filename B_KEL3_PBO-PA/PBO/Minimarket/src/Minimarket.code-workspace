@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../../Downloads/project akhir"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\wilda\\Downloads\\mysql-connector-java-5.1.49.jar"
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
